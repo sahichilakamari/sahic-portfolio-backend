@@ -1,0 +1,103 @@
+{
+    "bio": "I'm an enthusiastic Computer Science student at VNRVJIET, passionate about learning and applying new technologies. I\u2019m committed to continuous learning and innovation.",
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science",
+            "institution": "VNR Vignana Jyothi Institute of Engineering and Technology (VNRVJIET)",
+            "year": "2022 - 2026",
+            "cgpa": "8.96"
+        },
+        {
+            "degree": "Intermediate",
+            "institution": "Narayana Junior College",
+            "year": "2020 - 2022",
+            "percentage": "98%"
+        },
+        {
+            "degree": "SSC",
+            "institution": "Narayana Concept School",
+            "year": "2020",
+            "gpa": "10.0"
+        }
+    ],
+    "skills": {
+        "Languages": [
+            "Python",
+            "C",
+            "Java",
+            "R",
+            "SQL"
+        ],
+        "Web Development": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Flask",
+            "React",
+            "Express",
+            "Node"
+        ],
+        "Data Analytics & Visualization": [
+            "Power BI",
+            "Tableau",
+            "EDA"
+        ],
+        "Databases": [
+            "MySQL",
+            "MongoDB",
+            "Firebase"
+        ],
+        "Tools & Frameworks": [
+            "GitHub",
+            "AUTOCAD",
+            "StarUML",
+            "Overleaf",
+            "GNU Prolog"
+        ]
+    },
+    "projects": [
+        {
+            "title": "Risk Analysis for Loan Default Prediction",
+            "description": "Developed a predictive model using Python, Flask, and ML algorithms to assess home credit loan default risk. Implemented feature engineering, EDA, and credit scoring. Deployed via Flask & Render for real-time predictions.",
+            "duration": "Oct 2024 - Dec 2024"
+        },
+        {
+            "title": "Food Allergen Detection",
+            "description": "Created a Flask-based system using Python ML models to detect potential allergens from ingredient lists, providing real-time safety alerts for users."
+        },
+        {
+            "title": "Sales and Marketing Analytics Dashboard \u2013 Power BI",
+            "description": "Designed a Power BI dashboard for Superstore & campaign data with KPIs like revenue, CAC, and CLV. Enabled strategic insights through interactive visuals."
+        }
+    ],
+    "internships": [
+        {
+            "organization": "Infosys Springboard 5.0",
+            "role": "Frontend Developer Intern",
+            "duration": "Oct 2024 - Dec 2024",
+            "description": "Built UI for loan default prediction system, improved integration, and authored detailed documentation to support team onboarding."
+        },
+        {
+            "organization": "Swecha SOAI",
+            "role": "Data Collector",
+            "duration": "May 2024 - June 2024",
+            "description": "Collected cultural data through interviews across regions, covering food, traditions, festivals, and history."
+        }
+    ],
+    "certifications": [
+        "Microsoft CyberSuraksha by Tata Strive",
+        "Python for Everybody \u2013 University of Michigan (Coursera)",
+        "Introduction to MongoDB \u2013 (Coursera)"
+    ],
+    "achievements": [
+        "Offered FFE Scholarship for EAMCET rank 3217 and JEE MAINS 97.25 percentile",
+        "6th Place in Ideathon at VNRVJIET"
+    ],
+    "strengths": [
+        "Deal-Making",
+        "Agile Learner",
+        "Team Leadership",
+        "Collaborative"
+    ],
+    "resume_url": "/download-resume"
+}
