@@ -24,8 +24,7 @@
         "Languages": [
             "Python",
             "C",
-            "R",
-            "SQL"
+            "R"
         ],
         "Web Development": [
             "HTML",
@@ -55,7 +54,7 @@
     "projects": [
         {
             "title": "Risk Analysis for Loan Default Prediction",
-            "description": "Developed a predictive model using Python, Flask, and ML algorithms to assess home credit loan default risk. Implemented feature engineering, EDA, and credit scoring. Deployed via Flask & Render for real-time predictions."
+            "description": "Developed a predictive model using Python, Flask, and ML algorithms to assess whether a user is likely to default on a loan. The system also calculates the user's credit score and determines their FICO score range based on the provided financial inputs."
         },
         {
             "title": "Food Allergen Detection",
