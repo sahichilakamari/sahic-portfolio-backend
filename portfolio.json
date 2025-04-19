@@ -1,5 +1,5 @@
 {
-    "bio": "I'm an enthusiastic Computer Science student at VNRVJIET, passionate about learning and applying new technologies. I\u2019m committed to continuous learning and innovation.",
+    "bio": "I'm an enthusiastic Computer Science student at VNRVJIET, passionate about learning and applying new technologies.",
     "education": [
         {
             "degree": "B.Tech in Computer Science",
@@ -24,7 +24,6 @@
         "Languages": [
             "Python",
             "C",
-            "Java",
             "R",
             "SQL"
         ],
@@ -39,8 +38,7 @@
         ],
         "Data Analytics & Visualization": [
             "Power BI",
-            "Tableau",
-            "EDA"
+            "Tableau"
         ],
         "Databases": [
             "MySQL",
@@ -48,7 +46,6 @@
             "Firebase"
         ],
         "Tools & Frameworks": [
-            "GitHub",
             "AUTOCAD",
             "StarUML",
             "Overleaf",
@@ -58,8 +55,7 @@
     "projects": [
         {
             "title": "Risk Analysis for Loan Default Prediction",
-            "description": "Developed a predictive model using Python, Flask, and ML algorithms to assess home credit loan default risk. Implemented feature engineering, EDA, and credit scoring. Deployed via Flask & Render for real-time predictions.",
-            "duration": "Oct 2024 - Dec 2024"
+            "description": "Developed a predictive model using Python, Flask, and ML algorithms to assess home credit loan default risk. Implemented feature engineering, EDA, and credit scoring. Deployed via Flask & Render for real-time predictions."
         },
         {
             "title": "Food Allergen Detection",
